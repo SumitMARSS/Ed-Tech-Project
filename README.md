@@ -1,5 +1,4 @@
 # CodingWeb Edtech Project
-# CodingWeb Edtech Project
 
 <img width="1465" alt="image" src="https://github.com/roshan9888/CodingWeb/assets/100696071/c570d48a-478d-4ac4-99c1-526234ee6da6">
 <img width="1467" alt="image" src="https://github.com/roshan9888/CodingWeb/assets/100696071/8aa7ebb6-64cb-40d2-9655-d7ffa7987fb6">
