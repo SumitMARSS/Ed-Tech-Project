@@ -1,6 +1,6 @@
 import { useEffect } from "react"
 import "./App.css"
-// Redux
+// Redux 
 import { useDispatch, useSelector } from "react-redux"
 // React Router
 import { Route, Routes, useNavigate } from "react-router-dom"
